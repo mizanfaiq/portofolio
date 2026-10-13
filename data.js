@@ -24,7 +24,7 @@ window.PORTOFOLIO = {
       deskripsi: "Website untuk usaha seafood Guts'Sea Food, dengan halaman utama, cara pesan, menu, dan kontak.",
       tag: "Web, UI/UX",
       gambar: "img/guts-sea-food.jpg",  // taruh gambar di folder img
-      link: ""                          // isi dengan alamat proyek, contoh: "https://..."
+      link: "https://mizanfaiq.github.io/gutseafood/"                          // isi dengan alamat proyek, contoh: "https://..."
     }
   ],
 
