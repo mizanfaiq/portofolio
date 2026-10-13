@@ -1,0 +1,39 @@
+PANDUAN SITUS PORTOFOLIO
+========================
+
+ISI FOLDER
+  index.html   halaman utama (tidak perlu diubah)
+  style.css    tampilan (warna, huruf, tata letak)
+  script.js    logika halaman (tidak perlu diubah)
+  data.js      ISI situs: profil, proyek, daftar makalah  <-- ini yang kamu edit
+  img/         foto profil dan gambar proyek
+  makalah/     file PDF makalah
+
+MENGEDIT ISI
+  1. Buka data.js dengan Notepad atau editor teks apa pun.
+  2. Ubah teks di antara tanda kutip "...". Jangan hapus tanda kutip, koma, atau kurung.
+  3. Simpan, lalu unggah ulang ke hosting.
+
+MENAMBAH MAKALAH
+  1. Taruh PDF di folder makalah/ (nama tanpa spasi).
+  2. Di data.js, bagian "makalah", tambahkan satu blok seperti contoh di komentar.
+  3. Unggah ulang folder makalah/ dan data.js ke hosting.
+
+MENGGANTI FOTO
+  Ganti file img/profil.jpg dengan fotomu (nama file sama, atau ubah nama di data.js).
+  Gunakan foto persegi atau hampir persegi, ukuran sekitar 500 piksel agar ringan.
+
+MENCOBA DI KOMPUTER
+  Klik dua kali index.html. Tampilan dan tombol Lihat/Unduh berjalan.
+  Huruf khusus dari Google Fonts butuh internet; tanpa internet, huruf diganti huruf bawaan.
+
+MEMASANG KE HOSTING (pilih salah satu, semuanya statis)
+  - Cloudflare Pages atau Netlify: buat akun, pilih unggah folder (drag and drop),
+    seret seluruh isi folder ini.
+  - GitHub Pages: unggah isi folder ke repositori, aktifkan Pages di pengaturan.
+  Setelah terpasang, kamu dapat alamat bawaan layanan itu.
+
+MEMAKAI DOMAIN SENDIRI
+  Beli domain di penyedia domain, lalu di pengaturan hosting pilih "Custom domain"
+  dan ikuti petunjuk mengarahkan domain (DNS) yang diberikan layanan tersebut.
+  Syarat, harga, dan langkah persisnya ditentukan penyedia domain dan hosting.

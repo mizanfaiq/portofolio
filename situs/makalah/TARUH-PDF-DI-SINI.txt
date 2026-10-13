@@ -1,0 +1,2 @@
+Taruh file makalah (PDF) di folder ini, lalu daftarkan di data.js pada bagian "makalah".
+Gunakan nama file tanpa spasi, misalnya: analisis-sistem-informasi.pdf
